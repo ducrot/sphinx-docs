@@ -1,0 +1,16 @@
+## IDE
+/.idea
+/*.iml
+/.vscode
+/.project
+
+## OSX files
+*~
+*.DS_Store
+*.swp
+*.out
+
+
+.gitignore
+docker-compose.yml
+Dockerfile
