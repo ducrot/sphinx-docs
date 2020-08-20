@@ -7,7 +7,7 @@ provided by [Read the Docs](https://readthedocs.org).
 ## Installation
 
 ```console
-git clone git@github.com:ducrot/sphinx-docs.git my-documentation
+git clone https://github.com/ducrot/sphinx-docs.git my-documentation
 cd my-documentation
 rm -rf .git
 git init
